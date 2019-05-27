@@ -4,6 +4,7 @@ In this repo I'll add the code used in the development of the (flash) course abo
 ### Folders
     1. HelloWorld: The name says all...
     2. BasicHapi: First contact with Hapi.js framework and npm
+    3. HttpRequest: Basic http request to github api with input parameters and JSON stringify
 
 
 **Coded in NodeJs v10.15.3, npm 6.4.1 and visual studio code**
